@@ -14,4 +14,5 @@ public class Context {
     public State getState() {
         return this.state;
     }
+
 }
